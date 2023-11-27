@@ -25,7 +25,7 @@ I explore various data science techniques and methodologies to solve a real-worl
 ## Usage
 
 To replicate or explore this project:
-1. Clone this repository: `git clone https://github.com/your-username/IBM-Applied-Data-Science-Capstone.git`
+1. Clone this repository: `https://github.com/mmohamud25/IBM-Applied-Data-Science-Capstone`
 2. Install necessary dependencies listed in `requirements.txt`.
 3. Navigate to the `notebooks/` directory and run the Jupyter notebooks.
 
